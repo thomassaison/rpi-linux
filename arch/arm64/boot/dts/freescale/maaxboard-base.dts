@@ -432,7 +432,7 @@
 	power-supply = <&buck4_reg>;
 };
 
-&gpu3d {
+&gpu {
 	status = "okay";
 };
 
